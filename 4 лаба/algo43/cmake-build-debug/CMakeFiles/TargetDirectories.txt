@@ -1,0 +1,3 @@
+/Users/arsenijkarpov/1 семестр /Алгоритмы/4 лаба/algo43/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arsenijkarpov/1 семестр /Алгоритмы/4 лаба/algo43/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arsenijkarpov/1 семестр /Алгоритмы/4 лаба/algo43/cmake-build-debug/CMakeFiles/algo43.dir

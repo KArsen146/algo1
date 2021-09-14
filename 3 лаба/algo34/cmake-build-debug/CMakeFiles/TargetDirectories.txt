@@ -1,0 +1,3 @@
+/Users/arsenijkarpov/CLionProject/algo34/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arsenijkarpov/CLionProject/algo34/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arsenijkarpov/CLionProject/algo34/cmake-build-debug/CMakeFiles/algo34.dir

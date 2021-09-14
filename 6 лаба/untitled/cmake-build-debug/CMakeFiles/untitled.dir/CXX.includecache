@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arsenijkarpov/1семестр/Алгоритмы/6 лаба/untitled/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+queue
+-
+vector
+-
+string
+-
+
